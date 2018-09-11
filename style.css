@@ -1,0 +1,502 @@
+@font-face {
+  font-family: 'FontAwesome';
+  src: url("applab/fontawesome-webfont.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+#divApplab.appModern button.appModernDesign,
+#divApplab.appModern button.appModernDesign:hover {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  height: 30px;
+  width: 80px;
+  font-size: 14px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern label.appModernDesign,
+#divApplab.appModern label.appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 2px;
+  padding-right: 2px;
+  padding-bottom: 2px;
+  padding-left: 2px;
+  line-height: 1;
+  font-size: 14px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  word-wrap: break-word;
+  color: rgb(51, 51, 51);
+  max-width: 320px;
+  width: 32px;
+  height: 19px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=text].appModernDesign,
+#divApplab.appModern input[type=text].appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  width: 200px;
+  height: 30px;
+  color: rgb(0, 0, 0);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=checkbox].appModernDesign,
+#divApplab.appModern input[type=checkbox].appModernDesign:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern select.appModernDesign,
+#divApplab.appModern select.appModernDesign:hover {
+  width: 200px;
+  height: 30px;
+  font-size: 14px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(26, 188, 156);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern input[type=radio].appModernDesign,
+#divApplab.appModern input[type=radio].appModernDesign:hover {
+  width: 12px;
+  height: 12px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern div.textArea.appModernDesign,
+#divApplab.appModern div.textArea.appModernDesign:hover {
+  width: 200px;
+  height: 100px;
+  font-size: 14px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern img.appModernDesign,
+#divApplab.appModern img.appModernDesign:hover {
+  height: 100px;
+  width: 100px;
+  object-fit: contain;
+  font-family: "object-fit: contain;";
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern canvas.appModernDesign,
+#divApplab.appModern canvas.appModernDesign:hover {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern div.screen.appModernDesign,
+#divApplab.appModern div.screen.appModernDesign:hover {
+  display: block;
+  height: 450px;
+  width: 320px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  z-index: 0;
+}
+
+#divApplab.appModern div.chart.appModernDesign,
+#divApplab.appModern div.chart.appModernDesign:hover {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+#divApplab.appModern input[type=range].appModernDesign,
+#divApplab.appModern input[type=range].appModernDesign:hover {
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  width: 150px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+
+#divApplab.appModern #Play_btn {
+  left: 120px;
+  top: 355px;
+}
+
+#divApplab.appModern #image1 {
+  height: 205px;
+  width: 205px;
+  left: 50px;
+  top: 90px;
+}
+
+#divApplab.appModern #Title {
+  height: 60px;
+  width: 320px;
+  font-size: 34px;
+  background-color: rgb(7, 53, 53);
+}
+
+#divApplab.appModern #MainScreen {
+  display: none;
+  background-size: 320px 450px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/PIP-Digital-Background-14-700x560.jpg");
+}
+
+#divApplab.appModern #Piece2 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 90px;
+  top: 20px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-0-1.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #Piece3 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 160px;
+  top: 20px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-0-2.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #Piece4 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 230px;
+  top: 20px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-0-3.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #Piece5 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 20px;
+  top: 90px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-1-0.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #Piece6 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 90px;
+  top: 90px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-1-1.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #Piece7 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 160px;
+  top: 90px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-1-2.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #Piece8 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 230px;
+  top: 90px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-1-3.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #Piece11 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 160px;
+  top: 160px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-2-2.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #Piece10 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 90px;
+  top: 160px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-2-1.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #Piece13 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 20px;
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-3-0.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #Piece9 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 20px;
+  top: 160px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-2-0.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #Piece12 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 230px;
+  top: 160px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-2-3.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #Piece14 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 90px;
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-3-1.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #Piece15 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 160px;
+  top: 230px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-3-2.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #Piece0 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(255, 255, 255, 0.05);
+  left: 230px;
+  top: 230px;
+  background-image: url("https://studio.code.org/blockly/media/1x1.gif");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #shufflebtn {
+  background-color: rgba(99, 159, 36, 0.75);
+  left: 210px;
+  top: 325px;
+}
+
+#divApplab.appModern #move_cnt {
+  color: rgb(255, 255, 255);
+  width: 170px;
+  height: 20px;
+  left: 15px;
+  top: 350px;
+}
+
+#divApplab.appModern #Piece1 {
+  height: 70px;
+  width: 70px;
+  background-color: rgba(184, 83, 34, 0);
+  left: 20px;
+  top: 20px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/this-rare-pepe-offers-broad-shouldered-leadership%20%5Bwww.imagesplitter.net%5D-0-0.jpeg");
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+  background-repeat-x: no-repeat;
+  background-repeat-y: no-repeat;
+}
+
+#divApplab.appModern #undobtn {
+  background-color: rgb(54, 188, 26);
+  left: 210px;
+  top: 360px;
+}
+
+#divApplab.appModern #info_btn {
+  font-size: 11px;
+  color: rgb(255, 255, 255);
+  width: 175px;
+  height: 20px;
+  left: 85px;
+  top: 430px;
+}
+
+#divApplab.appModern #WinScreen {
+  background-size: 320px 450px;
+  background-image: url("https://studio.code.org/v3/assets/UMB3SrgvIVUrnzaG7nnq8sTGuhyTTIkiS7c5dUVXr0Y/tenor.gif");
+  display: none;
+}
+
+#divApplab.appModern #win_btn {
+  height: 40px;
+  width: 195px;
+  font-size: 37px;
+  color: rgb(0, 0, 0);
+  background-color: rgb(122, 206, 194);
+  left: 60px;
+  top: 1.11022e-16px;
+}
+
+#divApplab.appModern #playagain_btn {
+  background-color: rgb(84, 113, 67);
+  left: 120px;
+  top: 385px;
+}
+
+#divApplab.appModern #solvetime2 {
+  width: 15px;
+  height: 15px;
+  left: 100px;
+  top: 220px;
+}
+
+#divApplab.appModern #winmovenum {
+  height: 35px;
+  width: 155px;
+  left: 90px;
+  top: 245px;
+}
